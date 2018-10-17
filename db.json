@@ -1,0 +1,23 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"address": "499 vernon",
+			"email": "comc100@gmail.com",
+			"firstname": "brian",
+			"primaryPhone": "8280002011",
+			"secondaryPhone": "293293239",
+			"dob": "11/28/1999",
+			"sex": "male",
+			"addDate": "10/17/2018",
+			"updateDate": "10/17/2018",
+			"lastname": "Koo",
+			"city": "Piscataway",
+			"state": "NJ",
+			"zip": "08824",
+			"country": "US",
+			"fullname": "Brian Koo"
+		}
+	]
+
+}
